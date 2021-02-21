@@ -1,5 +1,5 @@
-import {Table} from './table/Table'
+import {AppRoutes} from './routes'
 
-const App = () => <Table/>
+const App = () => <AppRoutes/>
 
 export default App
